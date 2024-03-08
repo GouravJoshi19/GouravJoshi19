@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GouravJoshi,a passionate data enthusiast with a keen interest in leveraging data-driven insights to solve real-world problems</h1>
-<h3 align="center">I am constantly expanding my knowledge and skills in data science through self-learning and hands-on projects. I am particularly interested in exploring the intersection of data science with domains such as Machine Learning and Deep Learning <br> <br>Currently, I am seeking opportunities to apply my skills in a dynamic and collaborative environment where I can contribute to impactful projects and continue learning from experienced professionals.</h3>
+<h3 align="center">I am constantly expanding my knowledge and skills in the field of data science through self-learning and hands-on projects. I am particularly interested in exploring the intersection of data science with domains such as Machine Learning and Deep Learning <br> <br>Currently, I am seeking opportunities to apply my skills in a dynamic and collaborative environment where I can contribute to impactful projects and continue learning from experienced professionals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravjoshi19&label=Profile%20views&color=0e75b6&style=flat" alt="gouravjoshi19" /> </p>
 
