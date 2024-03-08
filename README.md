@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm GouravJoshi,a passionate data enthusiast with a keen interest in leveraging data-driven insights to solve real-world problems</h1>
-<h3 align="center">I am constantly expanding my knowledge and skills in data science through self-learning and hands-on projects. I am particularly interested in exploring the intersection of data science with domains such as Machine Learning and Deep Learning Currently, I am seeking opportunities to apply my skills in a dynamic and collaborative environment where I can contribute to impactful projects and continue learning from experienced professionals.</h3>
+<h3 align="center">I am constantly expanding my knowledge and skills in data science through self-learning and hands-on projects. I am particularly interested in exploring the intersection of data science with domains such as Machine Learning and Deep Learning <br> <br>Currently, I am seeking opportunities to apply my skills in a dynamic and collaborative environment where I can contribute to impactful projects and continue learning from experienced professionals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravjoshi19&label=Profile%20views&color=0e75b6&style=flat" alt="gouravjoshi19" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gouravjoshi30" target="blank"><img src="https://img.shields.io/twitter/follow/gouravjoshi30?logo=twitter&style=for-the-badge" alt="gouravjoshi30" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://joshi-portfolio.vercel.app/](https://joshi-portfolio.vercel.app/)
 
